@@ -66,7 +66,7 @@ cd file-size-utility
 
 ## Example
 
-Enter file paths separated by spaces: /path/to/file1.txt /path/to/file2.pdf /path/to/directory
+Enter file paths separated by spaces: /path/to/file1.txt   /path/to/file2.pdf   /path/to/directory
 
 File size of '/path/to/file1.txt': 1024 bytes
 
