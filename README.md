@@ -18,6 +18,8 @@ This utility tool calculates the size of files given their file paths. It suppor
 1. **Clone the repository:**
 
 git clone https://github.com/ToshTony/File-Size-Utility-Tool.git
+
+
 cd file-size-utility
 
 
@@ -65,8 +67,11 @@ cd file-size-utility
 ## Example
 
 Enter file paths separated by spaces: /path/to/file1.txt /path/to/file2.pdf /path/to/directory
+
 File size of '/path/to/file1.txt': 1024 bytes
+
 File size of '/path/to/file2.pdf': 1.23 MB
+
 File not found: /path/to/directory
 
 
